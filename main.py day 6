@@ -1,0 +1,20 @@
+# Student Management System (CLI)
+
+This is a simple Python project using File Handling.
+
+## Features:
+- Add Student
+- View Students
+- Delete Student
+- Update Student Marks
+
+## Tech Used:
+- Python
+- File Handling
+
+## How to Run:
+1. Download the file
+2. Run: python day5.py
+
+## Author:
+Suraj Kate
